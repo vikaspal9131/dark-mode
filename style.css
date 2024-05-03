@@ -181,3 +181,7 @@ nav .manu h4 {
   height: 100vh;
   background-color: red;
 }
+
+h1{
+  font-weight: 300;
+}
